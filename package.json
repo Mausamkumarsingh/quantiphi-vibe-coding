@@ -1,0 +1,10 @@
+{
+  "name": "ecommerce-multi-filter-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Root scripts for running server and client easily in VS Code",
+  "scripts": {
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev"
+  }
+}

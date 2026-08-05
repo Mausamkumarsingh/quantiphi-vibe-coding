@@ -82,6 +82,13 @@ Designed and implemented to technical assessment standards with clean MVC archit
 
 ---
 
+# Quantiphi Vibe Coding - E-Commerce Product Multi-Filter
+
+## Project Screenshot
+
+![Project Screenshot](./project.png)
+
+
 ## 🛠️ Installation & Execution
 
 ### Prerequisites

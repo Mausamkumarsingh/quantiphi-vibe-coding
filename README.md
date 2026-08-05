@@ -84,7 +84,7 @@ Designed and implemented to technical assessment standards with clean MVC archit
 
 ## Project Screenshot
 
-![Project Screenshot](./project.png)
+![Project Screenshot](./server/project.png)
 
 
 ## 🛠️ Installation & Execution
